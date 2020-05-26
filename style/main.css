@@ -1,0 +1,14 @@
+body {
+    position: relative;
+    background-image: url("background.png");
+}
+
+
+
+.navbar-logo img{
+    position: relative;
+    width: 180px;
+    height: 80px;
+    left: 20px;
+    top: -15px;
+}
